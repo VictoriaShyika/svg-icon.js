@@ -1,22 +1,22 @@
 {
-  "name": "@rnbws/svg-icon.js",
+  "name": "@victoria-shyika/svg-icon.js",
   "version": "0.0.1",
   "description": "js library which allows you to use svg-icon tag <svg-icon></svg-icon>",
   "main": "dist/svg-icon.min.js",
   "unpkg": "dist/svg-icon.min.js",
 
   "publishConfig": {
-    "@rnbws:registry": "https://npm.pkg.github.com",
+    "@victoria-shyika:registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "license": "ISC",
     "bugs": {
-    "url": "https://github.com/@rnbws/svg-icon.js/issues"
+    "url": "https://github.com/@victoria-shyika/svg-icon.js/issues"
   },
-  "homepage": "https://github.com/@rnbws/svg-icon.js#readme",
+  "homepage": "https://github.com/@victoria-shyika/svg-icon.js#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@rnbws/svg-icon.js.git"
+    "url": "git+https://github.com/@victoria-shyika/svg-icon.js.git"
   },
   "author": "Rainbow",
   "keywords": [
